@@ -6,5 +6,6 @@
 6. Regression and Generalized Linear Models (GLM)
 7. K-nearest neighbor
 8 Pytorch CNN
-9. Recommender Systems
-10. K-means
+9. SVMs
+10. Recommender Systems
+11. K-means
